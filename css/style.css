@@ -1,16 +1,13 @@
-#travel_back {
-  background-color: #DCDCDC;
-      height: 100%;
-      position: absolute;
-      width: 100%;
-    }
 
 #picture{
   width: 100%;
   }
 
 body {
-  font-family: "Raleway";
+  font-family: "Raleway",
     Arial, sans-serif;
   }
-}  
+
+.w3-row input{
+  margin-bottom: -6px
+}
