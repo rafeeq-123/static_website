@@ -1,0 +1,3 @@
+$("#paris").click(function(){
+  
+ });
